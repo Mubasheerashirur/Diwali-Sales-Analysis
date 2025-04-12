@@ -1,5 +1,5 @@
 # Diwali Sales Analysis using(Power BI)
-Project Objective
+## Project Objective
 The objective of this project to analyzes Diwali sales data to identify customer purchasing patterns, product performance, and demographic trends. Using Power BI, the dashboard provides actionable insights for better product focus, marketing strategies, and regional targeting to boost festive sales.
 
 ## Dataset Used
