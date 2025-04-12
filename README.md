@@ -19,4 +19,14 @@ This project analyzes Diwali sales data to identify customer purchasing patterns
 
 
 ## Dashboard Interaction
+<a href="https://github.com/Mubasheerashirur/Diwali-Sales-Analysis/blob/main/Screenshot%20(163).png">View Dashboard</a>
+
+## Process
+- Imported Diwali sales dataset containing customer demographics, product categories, sales amount, order count, and geographical data.
+- Removed null values, standardized column formats, and ensured accurate data types for seamless analysis.
+- Built a dynamic Power BI dashboard with interactive visuals, slicers, and KPIs to highlight performance metrics across demographics, geography, and product lines.
+- Performed exploratory data analysis to uncover sales trends, regional performance, customer behavior, and product category performance during the festive season.
+
+## Key Insights
+- 
 
